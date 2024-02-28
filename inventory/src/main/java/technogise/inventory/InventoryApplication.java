@@ -1,13 +1,13 @@
-package technogise.demo;
+package technogise.inventory;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ShippingApplication {
+public class InventoryApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ShippingApplication.class, args);
+        SpringApplication.run(InventoryApplication.class, args);
     }
 
 }
