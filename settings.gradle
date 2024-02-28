@@ -1,0 +1,5 @@
+rootProject.name = 'order-system'
+include 'inventory'
+include 'shipping'
+include 'notification'
+
