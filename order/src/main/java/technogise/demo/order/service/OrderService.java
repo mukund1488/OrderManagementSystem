@@ -17,6 +17,7 @@ public class OrderService {
             return false;
         }
         //Persist to db
-        //Call Notification service        return true;
+        //Call Notification service
+        return true;
     }
 }
